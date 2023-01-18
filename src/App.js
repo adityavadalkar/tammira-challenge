@@ -1,10 +1,11 @@
 import React from 'react'
-import Post from './components/Post'
+import PostPage from './components/PostPage'
+import './App.css'
 
 function App() {
   return (
     <div>
-      <Post />
+      <PostPage />
     </div>
   )
 }
